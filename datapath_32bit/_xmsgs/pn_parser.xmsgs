@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/alu_src_mux_21.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/control_unit_2.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/data_memory.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/imm_mux_31.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/imm_reg_11to7.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/imm_reg_31-20.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/imm_reg_31to25.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/instr_mem_32bit.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/logic_component.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/memtoreg_mux_31.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/pc_count_4.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/pc_count_branch.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/pc_increment_mux_21.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/prog_counter.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/register_file.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;/home/ise/SAP Project/Alpha Version/v8_branch with complete/datapath_32bit/sign_extender.v&quot; into library work</arg>
+</msg>
+
+</messages>
+
